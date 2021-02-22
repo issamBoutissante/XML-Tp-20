@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="./style.css" type="text/css"?>
+<artistes>
+  <th>
+    <td>Num</td>
+    <td>Titre</td>
+    <td>Artiste</td>
+    <td>Pays</td>
+    <td>Societe</td>
+    <td>Prix</td>
+    <td>Annee</td>
+  </th>
+  <artiste>
+    <Num>1</Num>
+    <Titre>Romanza</Titre>
+    <Artiste>Andrea Boceli</Artiste>
+    <Pays>EU</Pays>
+    <Societe>Polydor</Societe>
+    <Prix>10.80</Prix>
+    <Annee>1996</Annee>
+  </artiste>
+ <artiste>
+    <Num>2</Num>
+    <Titre>One night only</Titre>
+    <Artiste>Bee Gees</Artiste>
+    <Pays>EK</Pays>
+    <Societe>Polydor</Societe>
+    <Prix>10.90</Prix>
+    <Annee>1998</Annee>
+  </artiste>
+  <artiste>
+    <Num>--</Num>
+    <Titre>--</Titre>
+    <Artiste>--</Artiste>
+    <Pays>--</Pays>
+    <Societe>--</Societe>
+    <Prix>--</Prix>
+    <Annee>--</Annee>
+  </artiste>
+  <artiste>
+    <Num>25</Num>
+    <Titre>Big Willie style</Titre>
+    <Artiste>Will Smith</Artiste>
+    <Pays>USA</Pays>
+    <Societe>Columbia</Societe>
+    <Prix>9.90</Prix>
+    <Annee>1997</Annee>
+  </artiste>
+</artistes>
