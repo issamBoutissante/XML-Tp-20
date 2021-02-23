@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<?xml-stylesheet href="./style.css" type="text/css"?>
+<?xml-stylesheet href="./exercice.xsl" type="text/css"?>
 <artistes>
-  <th>
-    <td>Num</td>
-    <td>Titre</td>
-    <td>Artiste</td>
-    <td>Pays</td>
-    <td>Societe</td>
-    <td>Prix</td>
-    <td>Annee</td>
-  </th>
   <artiste>
     <Num>1</Num>
     <Titre>Romanza</Titre>
