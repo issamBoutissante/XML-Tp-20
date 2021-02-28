@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<?xml-stylesheet href="./exercice.xsl" type="text/css"?>
-<artistes>
-  <artiste>
+<?xml-stylesheet href="exercice.xsl" type="text/xsl"?>
+<films>
+  <film>
     <Num>1</Num>
     <Titre>Romanza</Titre>
-    <Artiste>Andrea Boceli</Artiste>
+    <artiste>Andrea Boceli</artiste>
     <Pays>EU</Pays>
     <Societe>Polydor</Societe>
     <Prix>10.80</Prix>
     <Annee>1996</Annee>
-  </artiste>
- <artiste>
+  </film>
+ <film>
     <Num>2</Num>
     <Titre>One night only</Titre>
-    <Artiste>Bee Gees</Artiste>
+    <artiste>Bee Gees</artiste>
     <Pays>EK</Pays>
     <Societe>Polydor</Societe>
     <Prix>10.90</Prix>
     <Annee>1998</Annee>
-  </artiste>
-  <artiste>
+  </film>
+  <film>
     <Num>--</Num>
     <Titre>--</Titre>
-    <Artiste>--</Artiste>
+    <artiste>--</artiste>
     <Pays>--</Pays>
     <Societe>--</Societe>
     <Prix>--</Prix>
     <Annee>--</Annee>
-  </artiste>
-  <artiste>
+  </film>
+  <film>
     <Num>25</Num>
     <Titre>Big Willie style</Titre>
-    <Artiste>Will Smith</Artiste>
+    <artiste>Will Smith</artiste>
     <Pays>USA</Pays>
     <Societe>Columbia</Societe>
     <Prix>9.90</Prix>
     <Annee>1997</Annee>
-  </artiste>
-</artistes>
+  </film>
+</films>

@@ -1,0 +1,14 @@
+th {
+  background-color: blue;
+}
+tr:last-child {
+  font-weight: bold;
+}
+td,
+th {
+  padding: 0px 10px;
+  height: 40px;
+}
+.red {
+  background-color: red;
+}
