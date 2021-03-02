@@ -17,7 +17,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
             <th>Prix</th>
             <th>Annee</th>
        </tr>
-       <!-- 1-	Afficher la liste vide comme suite :  -->
+       1-	Afficher la liste vide comme suite : 
        <!-- <h1>1-	Afficher la liste vide comme suite :</h1>>
        <xsl:for-each select="/films/film[position()=1]">
            <tr>
